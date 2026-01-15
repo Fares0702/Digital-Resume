@@ -1,5 +1,5 @@
 body {
-	background-image:url("/home/fares/Downloads/mcbackground.jpg");
+	background-image:url("mcbackground.jpg");
 	background-repeat: no-repeat;
 	background-size:cover;
 }
